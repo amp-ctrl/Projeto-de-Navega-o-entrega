@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/.claude": true,
+    "**/.expo": true,
+    "**/.gitignore": true,
+    "**/package-lock.json": true,
+    "**/app.json": true,
+  }
+}
